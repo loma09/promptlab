@@ -1,4 +1,4 @@
-# PromptCraft ⚡
+# PromptLab⚡
 
 Platform latihan interaktif untuk menulis prompt AI yang efektif.
 
